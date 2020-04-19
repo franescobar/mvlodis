@@ -1,0 +1,12 @@
+03.04.2020
+
+Here are some of the problems that need to be solved for visualization:
+
+1. There must exist a mapping between the RAMSES names, which are the only ones
+   we can associate to voltages at any instant, and the names of the nodes in
+   the tikz files, which are the ones we can draw on.
+
+2. The preceding mapping must be established at the moment of creating the
+   network, as after this point the network is 'forgotten'.
+
+3. 

@@ -1,0 +1,6 @@
+# Load flow (power flow) results
+# LFRESV bus_name v_magnitude (pu) v_phase (rad)
+
+LFRESV ONE 1.08000000 0.00000000 ;
+LFRESV TWO 1.01000000 -0.25817168 ;
+LFRESV 4 1.01951679 -0.30667027 ;

@@ -1,0 +1,168 @@
+new load.LOADLVN_14_1 phases=3 bus1=LVN_14_b169.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1179 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_2 phases=3 bus1=LVN_14_b168.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1180 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_3 phases=3 bus1=LVN_14_b273.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1181 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_4 phases=3 bus1=LVN_14_b175.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1182 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_5 phases=3 bus1=LVN_14_b88.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1183 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_6 phases=3 bus1=LVN_14_b142.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1184 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_7 phases=3 bus1=LVN_14_b68.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1185 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_8 phases=3 bus1=LVN_14_b76.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1186 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_9 phases=3 bus1=LVN_14_b131.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1187 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_10 phases=3 bus1=LVN_14_b64.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1188 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_11 phases=3 bus1=LVN_14_b52.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1189 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_12 phases=3 bus1=LVN_14_b128.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1190 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_13 phases=3 bus1=LVN_14_b138.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1191 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_14 phases=3 bus1=LVN_14_b41.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1192 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_15 phases=3 bus1=LVN_14_b27.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1193 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_16 phases=3 bus1=LVN_14_b122.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1194 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_17 phases=3 bus1=LVN_14_b117.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1195 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_18 phases=3 bus1=LVN_14_b25.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1196 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_19 phases=3 bus1=LVN_14_b19.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1197 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_20 phases=3 bus1=LVN_14_b16.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1198 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_21 phases=3 bus1=LVN_14_b72.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1199 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_22 phases=3 bus1=LVN_14_b93.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1200 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_23 phases=3 bus1=LVN_14_b18.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1201 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_24 phases=3 bus1=LVN_14_b87.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1202 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_25 phases=3 bus1=LVN_14_b82.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1203 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_26 phases=3 bus1=LVN_14_b300.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1204 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_27 phases=3 bus1=LVN_14_b8.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1205 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_28 phases=3 bus1=LVN_14_b330.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1206 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_29 phases=3 bus1=LVN_14_b43.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1207 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_30 phases=3 bus1=LVN_14_b50.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1208 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_31 phases=3 bus1=LVN_14_b46.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1209 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_32 phases=3 bus1=LVN_14_b51.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1210 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_33 phases=3 bus1=LVN_14_b315.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1211 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_34 phases=3 bus1=LVN_14_b346.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1212 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_35 phases=3 bus1=LVN_14_b332.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1213 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_36 phases=3 bus1=LVN_14_b222.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1214 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_37 phases=3 bus1=LVN_14_b361.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1215 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_38 phases=3 bus1=LVN_14_b331.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1216 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_39 phases=3 bus1=LVN_14_b207.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1217 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_40 phases=3 bus1=LVN_14_b211.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1218 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_41 phases=3 bus1=LVN_14_b362.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1219 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_42 phases=3 bus1=LVN_14_b365.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1220 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_43 phases=3 bus1=LVN_14_b369.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1221 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_44 phases=3 bus1=LVN_14_b227.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1222 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_45 phases=3 bus1=LVN_14_b215.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1223 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_46 phases=3 bus1=LVN_14_b352.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1224 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_47 phases=3 bus1=LVN_14_b176.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1225 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_48 phases=3 bus1=LVN_14_b181.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1226 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_49 phases=3 bus1=LVN_14_b363.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1227 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_50 phases=3 bus1=LVN_14_b192.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1228 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_51 phases=3 bus1=LVN_14_b246.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1229 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_52 phases=3 bus1=LVN_14_b253.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1230 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_53 phases=3 bus1=LVN_14_b283.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1231 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_54 phases=3 bus1=LVN_14_b164.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1232 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_55 phases=3 bus1=LVN_14_b245.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1233 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_56 phases=3 bus1=LVN_14_b156.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1234 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_57 phases=3 bus1=LVN_14_b261.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1235 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_58 phases=3 bus1=LVN_14_b326.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1236 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_59 phases=3 bus1=LVN_14_b173.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1237 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_60 phases=3 bus1=LVN_14_b198.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1238 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_61 phases=3 bus1=LVN_14_b234.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1239 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_62 phases=3 bus1=LVN_14_b238.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1240 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_63 phases=3 bus1=LVN_14_b252.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1241 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_64 phases=3 bus1=LVN_14_b223.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1242 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_65 phases=3 bus1=LVN_14_b147.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1243 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_66 phases=3 bus1=LVN_14_b355.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1244 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_67 phases=3 bus1=LVN_14_b357.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1245 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_68 phases=3 bus1=LVN_14_b343.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1246 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_69 phases=3 bus1=LVN_14_b231.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1247 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_70 phases=3 bus1=LVN_14_b126.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1248 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_71 phases=3 bus1=LVN_14_b274.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1249 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_72 phases=3 bus1=LVN_14_b280.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1250 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_73 phases=3 bus1=LVN_14_b184.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1251 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_74 phases=3 bus1=LVN_14_b284.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1252 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_75 phases=3 bus1=LVN_14_b151.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1253 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_76 phases=3 bus1=LVN_14_b265.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1254 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_77 phases=3 bus1=LVN_14_b113.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1255 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_78 phases=3 bus1=LVN_14_b320.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1256 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_79 phases=3 bus1=LVN_14_b319.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1257 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_80 phases=3 bus1=LVN_14_b190.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1258 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_81 phases=3 bus1=LVN_14_b116.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1259 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_82 phases=3 bus1=LVN_14_b294.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1260 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_83 phases=3 bus1=LVN_14_b195.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1261 vminpu=0.3 vmaxpu=1.5 
+new load.LOADLVN_14_84 phases=3 bus1=LVN_14_b100.1.2.3 kV=0.4 model=2 conn=wye kW=1 pf=0.98 daily=Shape_1262 vminpu=0.3 vmaxpu=1.5 
+new PVSystem.PVLVN_14_1 phases=3 bus1=LVN_14_b365.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_2 phases=3 bus1=LVN_14_b88.1.2.3 kV=0.4 kva=7.5 pf=1 pmpp=6.75 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_3 phases=3 bus1=LVN_14_b142.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_4 phases=3 bus1=LVN_14_b8.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_5 phases=3 bus1=LVN_14_b300.1.2.3 kV=0.4 kva=8.5 pf=1 pmpp=7.65 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_6 phases=3 bus1=LVN_14_b100.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_7 phases=3 bus1=LVN_14_b238.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_8 phases=3 bus1=LVN_14_b245.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_9 phases=3 bus1=LVN_14_b231.1.2.3 kV=0.4 kva=5.5 pf=1 pmpp=4.95 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_10 phases=3 bus1=LVN_14_b215.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_11 phases=3 bus1=LVN_14_b50.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_12 phases=3 bus1=LVN_14_b126.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_13 phases=3 bus1=LVN_14_b27.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_14 phases=3 bus1=LVN_14_b128.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_15 phases=3 bus1=LVN_14_b156.1.2.3 kV=0.4 kva=5.5 pf=1 pmpp=4.95 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_16 phases=3 bus1=LVN_14_b122.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_17 phases=3 bus1=LVN_14_b52.1.2.3 kV=0.4 kva=5.5 pf=1 pmpp=4.95 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_18 phases=3 bus1=LVN_14_b16.1.2.3 kV=0.4 kva=8.5 pf=1 pmpp=7.65 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_19 phases=3 bus1=LVN_14_b93.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_20 phases=3 bus1=LVN_14_b169.1.2.3 kV=0.4 kva=7.5 pf=1 pmpp=6.75 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_21 phases=3 bus1=LVN_14_b41.1.2.3 kV=0.4 kva=8.5 pf=1 pmpp=7.65 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_22 phases=3 bus1=LVN_14_b261.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_23 phases=3 bus1=LVN_14_b195.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_24 phases=3 bus1=LVN_14_b117.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_25 phases=3 bus1=LVN_14_b283.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_26 phases=3 bus1=LVN_14_b116.1.2.3 kV=0.4 kva=7.5 pf=1 pmpp=6.75 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_27 phases=3 bus1=LVN_14_b211.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_28 phases=3 bus1=LVN_14_b18.1.2.3 kV=0.4 kva=7.5 pf=1 pmpp=6.75 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_29 phases=3 bus1=LVN_14_b253.1.2.3 kV=0.4 kva=5.5 pf=1 pmpp=4.95 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_30 phases=3 bus1=LVN_14_b176.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_31 phases=3 bus1=LVN_14_b131.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_32 phases=3 bus1=LVN_14_b363.1.2.3 kV=0.4 kva=8.5 pf=1 pmpp=7.65 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_33 phases=3 bus1=LVN_14_b64.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_34 phases=3 bus1=LVN_14_b25.1.2.3 kV=0.4 kva=5.5 pf=1 pmpp=4.95 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_35 phases=3 bus1=LVN_14_b352.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_36 phases=3 bus1=LVN_14_b223.1.2.3 kV=0.4 kva=8.5 pf=1 pmpp=7.65 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_37 phases=3 bus1=LVN_14_b198.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_38 phases=3 bus1=LVN_14_b369.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_39 phases=3 bus1=LVN_14_b280.1.2.3 kV=0.4 kva=7.5 pf=1 pmpp=6.75 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_40 phases=3 bus1=LVN_14_b320.1.2.3 kV=0.4 kva=3.5 pf=1 pmpp=3.15 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_41 phases=3 bus1=LVN_14_b222.1.2.3 kV=0.4 kva=4.5 pf=1 pmpp=4.05 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+new PVSystem.PVLVN_14_42 phases=3 bus1=LVN_14_b72.1.2.3 kV=0.4 kva=6.5 pf=1 pmpp=5.85 temperature=25 irrad=1 EFFCURVE=Myeff P-TCURVE=MyPvsT model=1 daily=PV_Shape_14_1 VarFollowInverter=yes %cutin=0.1 %cutout=0.1 TDaily=MyTemp
+New InvControl.InvPVLVN_14_1 PVSystemList=PVLVN_14_1 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_2 PVSystemList=PVLVN_14_2 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_3 PVSystemList=PVLVN_14_3 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_4 PVSystemList=PVLVN_14_4 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_5 PVSystemList=PVLVN_14_5 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_6 PVSystemList=PVLVN_14_6 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_7 PVSystemList=PVLVN_14_7 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_8 PVSystemList=PVLVN_14_8 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_9 PVSystemList=PVLVN_14_9 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_10 PVSystemList=PVLVN_14_10 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_11 PVSystemList=PVLVN_14_11 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_12 PVSystemList=PVLVN_14_12 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_13 PVSystemList=PVLVN_14_13 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_14 PVSystemList=PVLVN_14_14 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_15 PVSystemList=PVLVN_14_15 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_16 PVSystemList=PVLVN_14_16 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_17 PVSystemList=PVLVN_14_17 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_18 PVSystemList=PVLVN_14_18 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_19 PVSystemList=PVLVN_14_19 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_20 PVSystemList=PVLVN_14_20 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_21 PVSystemList=PVLVN_14_21 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_22 PVSystemList=PVLVN_14_22 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_23 PVSystemList=PVLVN_14_23 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_24 PVSystemList=PVLVN_14_24 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_25 PVSystemList=PVLVN_14_25 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_26 PVSystemList=PVLVN_14_26 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_27 PVSystemList=PVLVN_14_27 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_28 PVSystemList=PVLVN_14_28 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_29 PVSystemList=PVLVN_14_29 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_30 PVSystemList=PVLVN_14_30 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_31 PVSystemList=PVLVN_14_31 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_32 PVSystemList=PVLVN_14_32 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_33 PVSystemList=PVLVN_14_33 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_34 PVSystemList=PVLVN_14_34 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_35 PVSystemList=PVLVN_14_35 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_36 PVSystemList=PVLVN_14_36 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_37 PVSystemList=PVLVN_14_37 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_38 PVSystemList=PVLVN_14_38 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_39 PVSystemList=PVLVN_14_39 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_40 PVSystemList=PVLVN_14_40 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_41 PVSystemList=PVLVN_14_41 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001
+New InvControl.InvPVLVN_14_42 PVSystemList=PVLVN_14_42 mode=VOLTVAR voltage_curvex_ref=rated avgwindowlen=100m vvc_curve1=myvv_curve DeltaQ_factor=0.4 EventLog=yes VV_RefReactivePower=VARMAX_WATTS VarChangeTolerance=0.025 hysteresis_offset=-0.000 VoltageChangeTolerance=0.001

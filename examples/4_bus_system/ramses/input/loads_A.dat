@@ -1,0 +1,17 @@
+# Definition of loads
+# LOAD load_name bus_name FP FQ P Q
+# DP A1 alpha1 A2 alpha2 alpha3 DQ B1 beta1 B2 beta2 beta3;
+
+# LOAD L3 3 0. 0. -1500 -750 0. 1. 1.5 0. 0. 0. 0. 1. 2.5 0. 0. 0. ;
+
+# Definition of shunt elements
+# SHUNT ame bus_name Q_nom breaker;
+
+# SHUNT C3 3 600. 1. ;
+
+# Definition of induction machines
+# INJEC INDMACH1 ind_name bus_name FP FQ P Q
+# SNOM RS LLS LSR RR LLR H A B LF
+
+# INJEC INDMACH1 M3 3 0. 0. 0. 0.
+# 800. 0. 0.1000  3.20 0.018 0.18 0.5 0. 0. 0.8 ;
