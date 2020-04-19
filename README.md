@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757338.svg)](https://doi.org/10.5281/zenodo.3757338)
+
 # MVLoDis: Medium-Voltage Load Disaggregator
 
 Welcome to the homepage of MVLoDis, a MATLAB toolbox for disaggregating
@@ -66,7 +68,7 @@ For further details on the methodology followed by the toolbox, please refer to
 
 1. Escobar, F., García, J., Víquez, J. M., Valverde, G. & Aristidou, P.
 (2020). *A Combined High-, Medium-, and Low-Voltage Test System for Stability
-Studies with DERs* (in preparation).
+Studies with DERs.* Electric Power Systems Research (accepted for publication).
 
 For a documentation of the system that originally motivated the development of
 MVLoDis, please refer to
@@ -117,7 +119,5 @@ this function in order to speed up the disaggregation.
 lower than 1 pu, exclude templates with low voltages.
 
 * Allow the specification of mutually exclusive loads. An example are the
-AIR_COND1 and AIR_COND2 records, which should not be connected to the same bus.
-
-* Dump raw data concerning the tap changes for each network, as well as the
-number of networks per MV load
+`AIR_COND1` and `AIR_COND2` records, which should not be connected to the same
+bus.
