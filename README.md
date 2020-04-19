@@ -1,4 +1,4 @@
-# MVLoDis: Medium-Voltage Load Disaggregator
+# MVLoDis: An open-source tool for disaggregating medium-voltage loads
 
 Welcome to the homepage of MVLoDis, a MATLAB toolbox for disaggregating
 medium-voltage (MV) loads into fully-modeled low-voltage networks (LVNs).
