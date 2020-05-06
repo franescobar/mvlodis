@@ -57,8 +57,8 @@ further information about the loads, but this is explained in the folders
 4. **Give further information**. Specify further information about loads and
 DERs: the abbreviations used to print them in RAMSES and the accuracy of the
 initial disaggregation. For instance,
-<pre><code>spec.abbr = ["L", "AC"];
-spec.power_accuracy = 0.1;</code></pre>
+<pre><code>specs.abbr = ["L", "AC"];
+specs.power_accuracy = 0.1;</code></pre>
 will tell MVLoDis to add an ``L`` to the name of each load of type ``LOAD`` and
 ``AC`` to the name of each ``AIR_COND1``, as well as to select the templates
 using a power accuracy of 0.1 MW.
@@ -76,7 +76,7 @@ record.
 
 6. **Call the function**. Using the above variables, this means writing
 <pre><code>disaggregate_load(P, Q, VM, VA, load_no, folder, file_path,
-                     spec, opts)</code></pre>
+                     specs, opts)</code></pre>
 
 7. **Check output and run**. Check the output in ``file_path`` and run it with
 RAMSES.
